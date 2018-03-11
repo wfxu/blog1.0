@@ -1,0 +1,52 @@
+# Empty CSS file for your own CSS
+html,body {
+	margin:0;
+	padding:0;
+}
+.mydiv{
+	height:100%;
+	padding:20px;
+}
+.note{
+	height:200px;
+	padding:30px 5px 30px 5px;
+	font-family:Times, TimesNR, 'New Century Schoolbook',
+     Georgia, 'New York', serif;
+	font-size:25px;
+	font-weight:bold;
+	border:rgba(255, 0, 0, 0.69);
+	border-style:solid;
+	border-width:5px;
+}
+.note td{
+	padding-left:15px;
+}
+.note tr{
+	display:block;
+	margin-top:20px;
+}
+.echarts1{
+	height:330px;
+	margin-top:5px;
+}
+#echarts22{
+	height:800px;
+
+}
+.detail{
+	padding:30px 5px 30px 5px;
+	font-family:Times, TimesNR, 'New Century Schoolbook',
+     Georgia, 'New York', serif;
+	font-size:20px;
+	font-weight:bold;
+	border-collapse:collapse;
+}
+.detail th{
+	border:1px solid #EAEAEA;
+}
+.detail tr{
+	border:1px solid #EAEAEA;
+}
+.detail td{
+	text-align:center;
+}
