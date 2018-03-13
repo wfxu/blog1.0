@@ -554,3 +554,16 @@ invalid request block size: 21573 (max 4096)...skip
 invalid request block size: 21573 (max 4096)...skip
 invalid request block size: 21573 (max 4096)...skip
 invalid request block size: 21573 (max 4096)...skip
+*** Starting uWSGI 2.0.17 (64bit) on [Tue Mar 13 21:25:35 2018] ***
+compiled with version: 5.4.0 20160609 on 07 March 2018 11:49:32
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/xuwf/Desktop/project/blog1.0/execution
+writing pidfile to uwsgi.pid
+detected binary path: /home/xuwf/.virtualenvs/django/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/wfxu/blog1.0/execution
+chdir(): No such file or directory [core/uwsgi.c line 2629]
